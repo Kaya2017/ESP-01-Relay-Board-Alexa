@@ -3,8 +3,8 @@
 #include "fauxmoESP.h"
 #define RELAY_PIN_1 0
 #define SERIAL_BAUDRATE 115000
-#define WIFI_SSID "Labbi"
-#define WIFI_PASS "kGdbn33Nuazn"
+#define WIFI_SSID "Dein Wlan"
+#define WIFI_PASS "Dein Password"
 #define SOCKET_2 "ESP-Socket"
 
 fauxmoESP fauxmo;
